@@ -1,10 +1,10 @@
-# <img src="https://static.wikia.nocookie.net/mspaintadventures/images/e/ef/Gamzeeshopdance.gif/revision/latest?cb=20200316004306" alt="gamzee makara" aria-hidden="true" width="20"/> hi, im wekk(dev)
+# <img src="https://static.wikia.nocookie.net/mspaintadventures/images/e/ef/Gamzeeshopdance.gif/revision/latest?cb=20200316004306" alt="gamzee makara" aria-hidden="true" width="20"/> hi im wekk(dev)
 
 my website is under construction (eta: never) so this will have to suffice for now
 
-i am a self-taught software developer who likes to code for fun [^1] [^2]
+im a self-taught software developer who likes to code for fun [^1] [^2]
 
-as of right now i don't have any public repos or anything of note to talk about but this will probably change at some point
+i don't have any public repos or anything of note to talk about but this will probably change
 
 <!--- ill add all this when i actually have stuff lol
 
@@ -19,4 +19,4 @@ ugdfehefufeh
 --->
 
 [^1]: nobody codes for fun
-[^2]: "self-taught software developer" wow thanks for being so specific
+[^2]: "self-taught software developer" so specific
